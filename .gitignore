@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/Nav3d/.vs/Nav3d/DesignTimeBuild
+/Nav3d/.vs/Nav3d/v17
+/Nav3d/.vs/ProjectEvaluation
+/Nav3d/bin/Debug/netstandard2.1
+/Nav3d/obj
+/Nav3d.Example/bin/Debug/net6.0
+/Nav3d.Example/obj
